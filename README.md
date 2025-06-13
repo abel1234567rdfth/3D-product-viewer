@@ -1,6 +1,6 @@
-3D Toy Car Viewer
+3D Table Viewer
 
-An interactive 3D product viewer application built with Three.js. Users can explore a toy car constructed entirely from basic geometries, interact with it using mouse controls, and watch the camera automatically orbit around the product.
+An interactive 3D product viewer application built with Three.js. Users can explore a table constructed entirely from basic geometries, interact with it using mouse controls, and watch the camera automatically orbit around the product.
 
  Features
 
